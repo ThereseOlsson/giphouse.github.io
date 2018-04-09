@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "SocialBrands"
-date:   spring 2018
+date:   2018-04-09 13:37:01
 client: Bo Veurman & Patrick Cuhfus
 categories:
 - project
